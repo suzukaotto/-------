@@ -3,6 +3,7 @@ import os
 import json
 from dotenv import load_dotenv
 
+# key regedit url = https://data.gg.go.kr/portal/data/service/selectServicePage.do?page=1&sortColumn=&sortDirection=&infId=ESFYUGPHCO3ZGP58V1K018796267&infSeq=2
 load_dotenv()
 KEY = os.environ['KEY']
 
